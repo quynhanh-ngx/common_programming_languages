@@ -1,0 +1,7 @@
+venv
+.ipynb_checkpoints
+main.py
+Most popular IDE.ipynb
+Untitled.ipynb
+.idea
+__pycache__
